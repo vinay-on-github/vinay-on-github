@@ -1,4 +1,4 @@
-![ci](https://github.com/YOUR-USERNAME/storage-guarantee-probes/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/vinay-on-github/storage-guarantee-probes/actions/workflows/ci.yml/badge.svg)
 
 # Vinay Venkatachala
 
