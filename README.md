@@ -1,3 +1,5 @@
+![ci](https://github.com/YOUR-USERNAME/storage-guarantee-probes/actions/workflows/ci.yml/badge.svg)
+
 # Vinay Venkatachala
 
 Enterprise architect and engineering leader — 20+ years across investment banking and medical devices, the two industries where software must be provably right. I write about and build the engineering that regulated environments force into existence: data lineage, snapshot consistency, storage guarantees, and AI systems that can survive an audit.
