@@ -4,9 +4,9 @@ Technology and engineering leader — 20+ years across investment banking and me
 
 ## Code
 
-| Repository | The question it answers |
+| Repository | What is it about |
 |---|---|
-| [`storage-guarantee-probes`](../../../storage-guarantee-probes) | What does a cloud object store actually *guarantee* — as opposed to merely exhibit — when you probe immutability, versioning, and atomicity empirically? |
+| [`storage-guarantee-probes`](../../../storage-guarantee-probes) | Cloud object store gurantees |
 | [`graph-db-benchmark`](https://github.com/vinay-on-github/graph-db-benchmark) | A self-contained test bench that compares Neo4j and Amazon Neptune as the store for a **data-lineage knowledge graph** |
 | `quantum-pricing-benchmark` *(planned)* | Where does quantum amplitude estimation actually stand against Monte Carlo for derivative pricing — measured honestly, caveats included? |
 
