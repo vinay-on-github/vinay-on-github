@@ -13,7 +13,7 @@ Each repository answers one question, pairs with an essay, and publishes dated, 
 | Repository | The question it answers |
 |---|---|
 | [`storage-guarantee-probes`](../../../storage-guarantee-probes) | What does a cloud object store actually *guarantee* — as opposed to merely exhibit — when you probe immutability, versioning, and atomicity empirically? |
-| `declared-snapshot` *(in progress)* | What does it take for a distributed computation over many live feeds to be provably consistent to a single moment? A reference implementation of declared snapshots, bitemporal storage, and mixed-input enforcement. |
+| [`graph-db-benchmark`](https://github.com/vinay-on-github/graph-db-benchmark) | A self-contained test bench that compares Neo4j and Amazon Neptune as the store for a **data-lineage knowledge graph** |
 | `quantum-pricing-benchmark` *(planned)* | Where does quantum amplitude estimation actually stand against Monte Carlo for derivative pricing — measured honestly, caveats included? |
 
 ## Writing
