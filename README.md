@@ -1,6 +1,6 @@
 # Vinay V
 
-Technology and engineering leader — 20+ years across investment banking and medical devices, the two industries where software must be provably right. I write about and build the engineering that regulated environments force into existence
+Technology and engineering leader with experience across investment banking and healthcare.
 
 ## Code
 
